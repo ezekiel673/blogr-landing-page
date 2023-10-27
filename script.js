@@ -17,7 +17,9 @@ subNav[2].style.display = "none";
 
 function mouseOver() {
   nav1.addEventListener("mouseover", (e) => {
-    arrow[0].style.transform = "rotate(180deg)";
+   arrow[0].style.transform = "rotate(180deg)";
+    arrow[1].style.transform = "rotate(0deg)";
+    arrow[2].style.transform = "rotate(0deg)";
     subNav[0].style.display = " flex";
     subNav[1].style.display = " none";
     subNav[2].style.display = " none";
@@ -32,7 +34,9 @@ function mouseOver() {
   });
 
   nav2.addEventListener("mouseover", (e) => {
-    arrow[1].style.transform = "rotate(180deg)";
+   arrow[1].style.transform = "rotate(180deg)";
+    arrow[2].style.transform = "rotate(0deg)";
+    arrow[0].style.transform = "rotate(0deg)";
     subNav[1].style.display = " flex";
     subNav[2].style.display = " none";
     subNav[0].style.display = " none";
@@ -47,7 +51,9 @@ function mouseOver() {
   });
 
   nav3.addEventListener("mouseover", (e) => {
-    arrow[2].style.transform = "rotate(180deg)";
+   arrow[2].style.transform = "rotate(180deg)";
+    arrow[1].style.transform = "rotate(0deg)";
+    arrow[0].style.transform = "rotate(0deg)";
     subNav[2].style.display = " flex";
     subNav[0].style.display = " none";
     subNav[1].style.display = " none";
