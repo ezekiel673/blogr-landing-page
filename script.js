@@ -239,11 +239,6 @@ mobileMenu();
 
  
 // Menu for desktop menu variable
-const nav1 = document.querySelector(".nav-1");
-
-const nav2 = document.querySelector(".nav-2");
-
-const nav3 = document.querySelector(".nav-3");
 
 const subNav = document.querySelectorAll(".sub-nav");
 
