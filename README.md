@@ -30,8 +30,8 @@ Users should be able to:
 #### Mobile-view
 ### Links
 
-- Solution URL: [blogr-landing-page](https://github.com/Ezekiel-Great/blogr-landing-page)
-- Live Site URL: [blogr-landing-page Live site URL](https://ezekiel-great.github.io/blogr-landing-page/)
+- Solution URL: [blogr-landing-page](https://github.com/ezekiel673/blogr-landing-page)
+- Live Site URL: [blogr-landing-page Live site URL](https://ezekiel673.github.io/blogr-landing-page/)
 
 
 ## My process
